@@ -16,6 +16,12 @@ I'm a heavy Claude Code user who ships production systems by combining domain ex
 - [toggle-excluded-files](https://github.com/karlolukic/toggle-excluded-files) - VS Code/Cursor extension to toggle hidden files
 - [eurotracker](https://github.com/karlolukic/eurotracker) - Interactive dashboard for ECB data built with R/Shiny
 
+## Workshops
+
+- [Claude Code & Agent SDK Workshop](https://claude-code-and-agent-sdk-workshop.netlify.app) - Hands-on workshop on Claude Code and the Agent SDK (Constructor Nexademy, Jan 2026)
+- [Build Your Startup's MVP with AI](https://build-your-startups-mvp-with-ai.netlify.app) - Workshop on building MVPs with AI tools (YES Bremen, Mar 2026)
+- [AI in Review](https://ai-in-review.netlify.app) - Interactive presentation on three years of AI breakthroughs
+
 ## Research
 
 - [impact_of_google_mv3_update_on_ad_blocker_effectiveness](https://github.com/lukic-papadopoulos-research/impact_of_google_mv3_update_on_ad_blocker_effectiveness) - PoPETs 2026, covered by The Register, referenced on Wikipedia, discussed on Hacker News
