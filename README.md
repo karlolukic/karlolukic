@@ -15,7 +15,6 @@ I'm a heavy Claude Code user who ships production systems by combining domain ex
 - [ai-in-review](https://github.com/karlolukic/ai-in-review) - Interactive D3.js timeline of three years of AI breakthroughs (2023-2025)
 - [toggle-excluded-files](https://github.com/karlolukic/toggle-excluded-files) - VS Code/Cursor extension to toggle hidden files
 - [eurotracker](https://github.com/karlolukic/eurotracker) - Interactive dashboard for ECB data built with R/Shiny
-- [frankfurt-population-explorer](https://github.com/karlolukic/frankfurt-population-explorer) - Streamlit app exploring Frankfurt's population data
 
 ## Research
 
