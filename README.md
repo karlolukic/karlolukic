@@ -1,12 +1,12 @@
 # Hi, I'm Karlo
 
-AI-assisted developer at [Constructor Tech](https://constructor.tech), building multi-agent orchestration systems with the Claude Agent SDK and Claude Code.
+AI-assisted developer at [Constructor Tech](https://constructor.tech), building multi-agent orchestration systems.
 
 I'm a heavy Claude Code user who ships production systems by combining domain expertise with AI-augmented development. My background is in quantitative marketing research (PhD, Goethe University Frankfurt), and I use that analytical foundation to architect reliable AI agent pipelines.
 
 ## What I'm building
 
-- **Course Blueprint Builder** - Multi-agent system for automated course generation (11 subagents, 48 custom tools, Python/FastAPI + React/TypeScript)
+- Multi-agent system for automated course generation
 - Prompt engineering, evaluation frameworks, and AI tool orchestration
 - Workshop curriculum for teaching AI-assisted development
 
