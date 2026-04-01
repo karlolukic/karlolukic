@@ -20,7 +20,6 @@ I'm a heavy Claude Code user who ships production systems by combining domain ex
 
 - [Claude Code & Agent SDK Workshop](https://claude-code-and-agent-sdk-workshop.netlify.app) - Hands-on workshop on Claude Code and the Agent SDK (Constructor Nexademy, Jan 2026)
 - [Build Your Startup's MVP with AI](https://build-your-startups-mvp-with-ai.netlify.app) - Workshop on building MVPs with AI tools (YES Bremen, Mar 2026)
-- [AI in Review](https://ai-in-review.netlify.app) - Interactive presentation on three years of AI breakthroughs
 
 ## Research
 
