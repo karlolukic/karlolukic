@@ -1,6 +1,6 @@
 # Hi, I'm Karlo
 
-ML engineer at [Constructor Tech](https://constructor.tech), building multi-agent orchestration systems.
+Agentic AI engineer at [Constructor Tech](https://constructor.tech), building multi-agent orchestration systems.
 
 I'm a heavy Claude Code user who ships production systems by combining domain expertise with AI-augmented development. My background is in quantitative marketing research (PhD, Goethe University Frankfurt), and I use that analytical foundation to architect reliable AI agent pipelines.
 
